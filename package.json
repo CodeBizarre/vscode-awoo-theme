@@ -1,0 +1,21 @@
+{
+    "name": "awoo-theme",
+    "displayName": "awoo-theme",
+    "description": "My personal VS Code theme",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Awoo Syntax",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Awoo Syntax-color-theme.json"
+            }
+        ]
+    }
+}
