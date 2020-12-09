@@ -1,18 +1,48 @@
 {
     "name": "awoo-theme",
-    "displayName": "awoo-theme",
-    "description": "My personal VS Code theme",
+    "displayName": "Awoo",
+    "description": "Pretty shades of purple and blue for your viewing pleasure.",
+    "publisher": "code-bizarre",
+    "author": {
+        "name": "Code Bizarre"
+    },
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.51.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CodeBizarre/vscode-awoo-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/CodeBizarre/vscode-awoo-theme/issues"
+    },
+    "galleryBanner": {
+        "color": "#2a2d39",
+        "theme": "dark"
+    },
+    "icon": "icons/icon256x.png",
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "Awoo",
+        "Howl",
+        "Wolf",
+        "Dark",
+        "Dark Theme",
+        "CodeBizarre",
+        "Code Bizarre",
+        "code-bizarre",
+        "purple",
+        "blue",
+        "pink",
+        "pretty"
     ],
     "contributes": {
         "themes": [
             {
-                "label": "Awoo Syntax",
+                "label": "Awoo Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Awoo Syntax-color-theme.json"
             }
