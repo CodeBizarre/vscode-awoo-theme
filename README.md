@@ -1,6 +1,11 @@
 # Awoo Theme
 This is my personal theme for VS Code
 
+### Installing
+It is available through the [VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=code-bizarre.awoo-theme) through the browser, or through the in-app extensions search. 
+
+If for some reason you'd rather install from the command line: `code --install-extension code-bizarre.awoo-theme`
+
 I accept suggestions and constructive criticism.
 
 Screenshots below.
