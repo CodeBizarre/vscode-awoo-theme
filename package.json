@@ -6,7 +6,7 @@
     "author": {
         "name": "Code Bizarre"
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.51.0"
     },
@@ -21,7 +21,7 @@
         "color": "#2a2d39",
         "theme": "dark"
     },
-    "icon": "icons/icon256x.png",
+    "icon": "icons/icon500x.png",
     "categories": [
         "Themes"
     ],
