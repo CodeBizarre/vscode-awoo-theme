@@ -3,8 +3,8 @@
 	"type": "dark",
 	"colors": {
 		"editor.background": "#2a2d39",
-		"editor.foreground": "#fafafa",
-		"titleBar.activeBackground": "#21242b",
+		"editor.foreground": "#f5f5f5",
+		"titleBar.activeBackground": "#21242d",
 		"editorGroupHeader.tabsBackground": "#21242d",
 		"tab.inactiveBackground": "#21242d",
 		"activityBar.background": "#21242d",
@@ -19,7 +19,7 @@
 		"dropdown.background": "#191b22",
 		"list.activeSelectionBackground": "#252833",
 		"list.focusBackground": "#252833",
-		"terminal.foreground": "#fafafa"
+		"terminal.foreground": "#f5f5f5"
 	},
 	"tokenColors": [
 		{
